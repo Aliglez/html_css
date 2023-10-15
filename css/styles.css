@@ -4,3 +4,37 @@ header {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
+
+#encabezado {
+    width: auto;
+    height: 30px;
+    background-color: gray;
+    background-position: center;
+    text-align: left;
+    vertical-align: middle;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20% ;
+    margin-right: 20%;
+}
+#content {
+    width: auto;
+    text-align: left;
+    vertical-align: middle;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 28% ;
+    margin-top: 1%;
+    margin-right: 28%;
+}
+
+img {
+    height: 25%;
+    width: 25%;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:medium;
+    text-align: justify;
+    display: flex;
+    justify-content: end;
+}
