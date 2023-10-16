@@ -21,3 +21,7 @@ table, th, td {
     font-family: Verdana;
     font-size: large;
 } 
+
+th, td {
+    padding: 10px;
+}
