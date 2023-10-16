@@ -11,9 +11,13 @@ h1 {
 .contenedor_tabla {
     margin-left: 25%;
     margin-right: 25%;
+    display: flex;
+    justify-content: center;
 }
 
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
+    font-family: Verdana;
+    font-size: large;
 } 
