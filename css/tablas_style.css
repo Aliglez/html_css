@@ -1,0 +1,9 @@
+body {
+    background-image: url(../assets/images/fondo-madera-natural.jpg);
+}
+
+h1 {
+    font-family: Verdana;
+    display:flex;
+    justify-content: center;
+}
