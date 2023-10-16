@@ -25,3 +25,71 @@ table, th, td {
 th, td {
     padding: 10px;
 }
+
+.teal {
+    background-color: teal;
+}
+
+.black {
+    background-color: black;
+}
+
+.blue {
+    background-color: blue;
+}
+
+
+.navy {
+    background-color: navy;
+}
+
+
+.lima {
+    background-color: lime;
+}
+
+
+.white {
+    background-color: white;
+}
+
+
+.purple {
+    background-color: purple;
+}
+
+
+.yellow {
+    background-color: yellow;
+}
+
+
+.olive {
+    background-color: olive;
+}
+
+
+.marron {
+    background-color: brown;
+}
+
+
+.grey {
+    background-color: grey;
+}
+
+
+.red {
+    background-color: red;
+}
+
+
+.fuchsia {
+    background-color: fuchsia;
+}
+
+
+.green, th {
+    background-color: green;
+}
+
