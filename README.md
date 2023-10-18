@@ -1,5 +1,9 @@
 # html_css
 
+##index.html
+- Creación de secciones con margenes
+- Inserción de imagen con texto alrededor
+
 
 ##tablas.html
 
